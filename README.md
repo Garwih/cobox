@@ -4,10 +4,10 @@ A lightweight jQuery lightbox plugin.
 
 一个轻量级的 jQuery 灯箱效果插件。
 
-##Demo
+## Demo
 [Demo Page](http://garwih.github.io/cobox/)
 
-##Usage
+## Usage
 1.Download and unzip the plugin.
 
 下载并解压插件
@@ -41,9 +41,9 @@ A lightweight jQuery lightbox plugin.
 
 可选：如果想要显示图片标题，请在图片链接中使用 `title` 或 `data-title`
 
-##Browser Support
+## Browser Support
 
 IE 8+, Opera, Chrome, Firefox, Safari
 
-##License
+## License
 [MIT License](http://opensource.org/licenses/MIT)
